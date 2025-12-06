@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LeetCode-Master/static/css/main.fa4a4fe3.css",
+    "main.js": "/LeetCode-Master/static/js/main.2a7e2736.js",
+    "index.html": "/LeetCode-Master/index.html",
+    "main.fa4a4fe3.css.map": "/LeetCode-Master/static/css/main.fa4a4fe3.css.map",
+    "main.2a7e2736.js.map": "/LeetCode-Master/static/js/main.2a7e2736.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa4a4fe3.css",
+    "static/js/main.2a7e2736.js"
+  ]
+}
