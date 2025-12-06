@@ -1,70 +1,93 @@
-# Getting Started with Create React App
+# 🎯 LeetCode Master List
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A beautiful, interactive web application to organize and track 90+ essential LeetCode problems categorized by topic. Perfect for interview preparation and systematic revision.
 
-## Available Scripts
 
-In the project directory, you can run:
+## 📖 About This Project
 
-### `npm start`
+This is a **personal revision tool** I created to maintain and track my LeetCode practice journey. The problem list was collected from various online sources and represents a curated selection of problems covering essential topics for technical interviews.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+> **⚠️ Important Note:** This list was found online, and I do not remember the original creator's name. If you know who originally curated this list, please submit a pull request with the correct attribution. I will gladly update this README to give proper credit.
+>
+> **Thank you** to whoever shared this amazing curated list online! 🙏
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### What This Project Is
 
-### `npm test`
+- ✅ A **personal study tracker** for LeetCode problems
+- ✅ An **organizational tool** to categorize problems by topic
+- ✅ A **progress tracker** to monitor your preparation journey
+- ✅ A **revision aid** with direct links to problems
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### What This Project Is NOT
 
-### `npm run build`
+- ❌ **NOT** affiliated with or endorsed by LeetCode
+- ❌ **NOT** a solution repository
+- ❌ **NOT** a platform to solve problems (use LeetCode.com for that)
+- ❌ **NOT** claiming ownership of the problem list or LeetCode content
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+This is simply a **personal organizational tool** that links to publicly available LeetCode problems to help with structured revision.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🎯 How to Use
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. **Browse Problems**: Explore problems organized by category
+2. **Search**: Use the search bar to find specific problems
+3. **Track Progress**: Click the circle icon to mark problems as complete
+4. **Solve on LeetCode**: Hover over a problem and click "Solve" to open it on LeetCode
+5. **Switch Theme**: Toggle between dark and light mode using the sun/moon icon
+6. **Expand/Collapse**: Manage categories to focus on specific topics
 
-### `npm run eject`
+## 🤝 Contributing
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Contributions are welcome! Here's how you can help:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### 🔍 Know the Original Creator?
+If you know who originally curated this problem list, please:
+1. Fork the repository
+2. Update the README with proper attribution
+3. Submit a pull request
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### 🐛 Found a Bug?
+- Open an issue with a clear description
+- Include steps to reproduce
+- Suggest a fix if possible
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### 💡 Have a Feature Idea?
+- Open an issue to discuss the feature
+- Describe the use case and benefits
+- Submit a pull request if you'd like to implement it
 
-## Learn More
+### 🔗 Problem Link Issues?
+- If a problem link is broken or incorrect
+- Open an issue or submit a PR with the fix
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 📝 License
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-### Code Splitting
+## ⚖️ Disclaimer
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+This project is an independent study tool and is not affiliated with, endorsed by, or connected to LeetCode or any of its services. All problem names and references are used solely for educational and organizational purposes.
 
-### Analyzing the Bundle Size
+- LeetCode® is a registered trademark of LeetCode LLC
+- All problems belong to their respective owners on LeetCode.com
+- This tool simply provides links to publicly available problems
+- No LeetCode content is hosted or reproduced in this project
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 🙏 Acknowledgments
 
-### Making a Progressive Web App
+- **Original List Curator**: Thank you to the person who created this curated list. If you recognize this list as your work, please reach out so I can give proper credit!
+- **LeetCode**: For providing an excellent platform for coding practice
+- **Community**: For sharing knowledge and helping each other grow
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## 📧 Contact
 
-### Advanced Configuration
+If you know the original creator of this problem list or have any questions:
+- Open an issue on GitHub
+- Submit a pull request with information
+- Reach out through GitHub discussions
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+---
 
-### Deployment
+**Remember**: This is just a study tracker. The real learning happens when you solve these problems on LeetCode! 💪
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Happy Coding! 🚀

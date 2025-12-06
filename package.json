@@ -2,7 +2,7 @@
   "name": "leetcode-master",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://niloydas19.github.io/leetcode-master",
+  "homepage": "https://niloydas19.github.io/LeetCode-Master",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
